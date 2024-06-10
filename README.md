@@ -1,5 +1,5 @@
 # FYP-image-captioning-ver1-transfromers-
-
+if you want to run this code you have to download the all dependancies first from requirments.txt  
 
 ## workflows:
 1. update config yaml 
